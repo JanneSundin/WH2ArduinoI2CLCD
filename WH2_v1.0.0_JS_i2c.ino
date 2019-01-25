@@ -1,3 +1,10 @@
+/*This code includes Luc Small Decoding for  WH2 weather station 
+I have added support for I2C LCD 
+
+Janne Sundin 20190125
+
+*/
+
 /*
   Updated code for receiving data from WH2 weather station
   This code implements timeouts to make decoding more robust
