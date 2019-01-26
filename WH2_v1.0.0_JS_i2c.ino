@@ -3,6 +3,8 @@ I have added support for I2C LCD
 
 Janne Sundin 20190125
 
+Require Wire and LiquidCrystal I2C library 
+
 */
 
 /*
